@@ -15,7 +15,7 @@
     {
       "device_id": "f0486e57dd040e0a",
       "username": "f0486e57dd040e0a",
-      "password": "f0486e57dd040e0a",
+      "password": "1234",
       "expire_date": "2026-04-15"
     },
     {
