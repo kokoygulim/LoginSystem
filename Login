@@ -7,7 +7,7 @@
   "renewUrl": "https://shortxlinks.com/9LDL",
   "devices": [
     {
-      "device_id": "a56gf840dff32",
+      "device_id": "11517d615ba8674c",
       "username": "cmap",
       "password": "12345",
       "expire_date": "2025-10-20"
