@@ -4,7 +4,7 @@
   "description": "Please login to continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://t.me/dp_mods",
+  "renewUrl": "https://shortxlinks.com/9LDL",
   "devices": [
     {
       "device_id": "591a2a49ce8ca4dc",
