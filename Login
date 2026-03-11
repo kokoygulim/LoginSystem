@@ -7,16 +7,16 @@
   "renewUrl": "https://shortxlinks.com/9LDL",
   "devices": [
     {
-      "device_id": "a56gf840dff3",
+      "device_id": "a56gf840dff32",
       "username": "cmap",
       "password": "12345",
-      "expire_date": "2026-10-20"
+      "expire_date": "2025-10-20"
     },
     {
-      "device_id": "111111111111111",
-      "username": "111111111111111",
-      "password": "1234",
-      "expire_date": "2026-03-10"
+      "device_id": "a56gf840dff32",
+      "username": "cmap",
+      "password": "123456",
+      "expire_date": "2026-03-18"
     },
     {
       "device_id": "testdevice11223344",
