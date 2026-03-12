@@ -4,7 +4,7 @@
   "description": "Please login to continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://shortxlinks.com/9LDL",
+  "renewUrl": "https://t.me",
   "devices": [
     {
       "device_id": "11517d615ba8674c",
@@ -28,7 +28,7 @@
       "device_id": "ad2437eff0521",
       "username": "cmap",
       "password": "12345",
-      "expire_date": "2035-03-18"
+      "expire_date": "2026-04-01"
     },
     {
       "device_id": "xxxxxx",
