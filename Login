@@ -19,7 +19,7 @@
       "expire_date": "2035-03-18"
     },
     {
-      "device_id": "f0486e57dd040e0a",
+      "device_id": "f0486e57dd040e0",
       "username": "cmap",
       "password": "12345",
       "expire_date": "2035-06-01"
