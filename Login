@@ -23,7 +23,7 @@
       "username": "cmap",
       "password": "12345",
       "expire_date": "2035-06-01"
-    }
+    },
 {
       "device_id": "xxxxxx",
       "username": "cmap",
@@ -35,7 +35,7 @@
       "username": "cmap",
       "password": "12345",
       "expire_date": "2035-06-01"
-    }
+    },
 {
       "device_id": "xxxxxx",
       "username": "cmap",
