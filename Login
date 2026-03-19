@@ -31,10 +31,10 @@
       "expire_date": "2026-04-01"
     },
     {
-      "device_id": "xxxxxxxxxxxx",
+      "device_id": "a56gf840dff32",
       "username": "netguard",
       "password": "12345",
-      "expire_date": "2035-06-01"
+      "expire_date": "2025-03-19"
     },
 {
       "device_id": "xxxxxx",
